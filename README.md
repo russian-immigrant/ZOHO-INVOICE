@@ -1,14 +1,14 @@
 <div align="center">
 
-![Invoice Generator — form + live preview](assets/readme-hero.svg)
+![preview](preview.png)
 
 # Invoice Generator
 
 **Create polished invoices in the browser** — live preview, collapsible editor sections, PNG export, and print-to-PDF using only HTML, CSS, and JavaScript.
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![No build](https://img.shields.io/badge/stack-HTML%20%7C%20CSS%20%7C%20JS-3498db)](index.html)
-
+[![License: MIT](https://img.shields.io/badgk-HTML%20%7C%20CSS%20%7C%20JS-3498db)](index.html)
+e/License-MIT-yellow.svg)](LICENSE)
+[![No build](https://img.shields.io/badge/stac
 </div>
 
 ---
